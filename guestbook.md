@@ -229,3 +229,5 @@
 - C Steed
 - Adam Lu
 - Shawn Serik
+- Sean Kross
+- A Van
